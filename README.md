@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### I am Boyoung Youn who is interested in Backend Engineering from South Korea
+
+#### if ypu want to connact me, please leave me a message!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=younboyung&show_icons=true&theme=radical)
+
+
 <!--
 **younboyoung/younboyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
